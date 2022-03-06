@@ -39,19 +39,19 @@ Based on the results below, the balanced accuracy score is 62%, the precision is
 
 Based on the results below, the balanced accuracy score is 65%, the precision is 99% and the recall is 66%.
 
-![](https://github.com/SheaButta/Credit_Risk_Analysis/blob/main/Images/Deliverable1_SmoteOversampling.PNG)
+![](https://github.com/SheaButta/Credit_Risk_Analysis/blob/main/Images/Deliverable2_SmoteOversampling.PNG)
 
 ## Undersampling
 
 Based on the results below, the balanced accuracy score is 51%, the precision is 99% and the recall is 54%.
 
-![](https://github.com/SheaButta/Credit_Risk_Analysis/blob/main/Images/Deliverable1_Undersampling.PNG)
+![](https://github.com/SheaButta/Credit_Risk_Analysis/blob/main/Images/Deliverable2_Undersampling.PNG)
 
 ## Combination (Over and Under) Sampling
 
 Based on the results below, the balanced accuracy score is 62%, the precision is 99% and the recall is 54%.
 
-![](https://github.com/SheaButta/Credit_Risk_Analysis/blob/main/Images/Deliverable1_Combination_OverUnder.PNG)
+![](https://github.com/SheaButta/Credit_Risk_Analysis/blob/main/Images/Deliverable2_Combination_OverUnder.PNG)
 
 
 ### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
