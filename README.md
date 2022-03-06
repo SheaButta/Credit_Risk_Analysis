@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-![](https://github.com/SheaButta/Credit_Risk_Analysis/blob/main/Images/creditrisk.jpg)
+![](https://github.com/SheaButta/Credit_Risk_Analysis/blob/main/Images/credit.jpg)
 
 ## Overview 
 The purpose of this project is to assist my client with predicting credit card risk utilizing Machine Learning (ML).  Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, you’ll need to employ different techniques to train and evaluate models with unbalanced classes.
