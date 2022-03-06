@@ -58,7 +58,7 @@ Based on the results below, the balanced accuracy score is 62%, the precision is
 
 Based on the results below, the balanced accuracy score is 93%, the precision is 99% and the recall is 94%.
 
-![](https://github.com/SheaButta/Amazon_Vine_Analysis/blob/main/Images/Deliverable3_Ensemble.PNG)
+![](https://github.com/SheaButta/Credit_Risk_Analysis/blob/main/Images/Deliverable3_Ensemble.PNG)
 
 
 ## Summary
